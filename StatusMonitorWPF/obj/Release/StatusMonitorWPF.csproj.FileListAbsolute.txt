@@ -1,0 +1,32 @@
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\bin\Release\StatusMonitorWPF.exe.config
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\bin\Release\StatusMonitorWPF.exe
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\bin\Release\StatusMonitorWPF.pdb
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\MainWindow.g.cs
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\App.g.cs
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF_MarkupCompile.cache
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF_MarkupCompile.lref
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\MainWindow.baml
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.g.resources
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.Properties.Resources.resources
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.csproj.GenerateResource.cache
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.exe
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.pdb
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\bin\Release\StatusMonitorWPF.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\bin\Release\StatusMonitorWPF.exe
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\bin\Release\StatusMonitorWPF.pdb
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\MainWindow.g.cs
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\App.g.cs
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF_MarkupCompile.cache
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF_MarkupCompile.lref
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\MainWindow.baml
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.g.resources
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.csproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.exe
+C:\Users\Сергей\Documents\Visual Studio 2017\Projects\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.pdb
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.csprojAssemblyReference.cache
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\bin\Release\LogicLibrary.dll
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\bin\Release\LogicLibrary.pdb
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\StatusMonitorWPF\obj\Release\StatusMonitorWPF.csproj.CopyComplete

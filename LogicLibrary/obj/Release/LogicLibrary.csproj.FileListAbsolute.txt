@@ -1,0 +1,5 @@
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\LogicLibrary\bin\Release\LogicLibrary.dll
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\LogicLibrary\bin\Release\LogicLibrary.pdb
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\LogicLibrary\obj\Release\LogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\LogicLibrary\obj\Release\LogicLibrary.dll
+C:\Users\Ыдш\source\repos\StatusMonitorWPF\LogicLibrary\obj\Release\LogicLibrary.pdb
